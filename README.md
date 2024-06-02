@@ -16,8 +16,6 @@ I am a full stack engineer with extensive experience working for various startup
 ![Phoenix](https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=phoenix-framework)
 
 ## Languages in Repos
-![Repositories](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fimerrill9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imerrill9&layout=compact&theme=radical)
 
 ## Contact
