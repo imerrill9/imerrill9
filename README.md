@@ -1,5 +1,4 @@
 # Hey there, I'm Ian Merrill
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 ## About Me
 
