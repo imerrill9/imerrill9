@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a full stack engineer with a strong preference for Elixir/Phoenix on the backend, leveraging its powerful vertical scaling capabilities and fault-tolerant architecture. On the frontend, I specialize in React frameworks, particularly Next.js, and have experience with React Native for mobile development. I've embraced modern AI coding tools like GitHub Copilot and Cursor, integrating them into my development workflow to significantly boost productivity. My expertise spans across TypeScript, React, and GraphQL, with a particular focus on building scalable, maintainable applications using these technologies.
+I am a full stack engineer with a strong preference for Elixir/Phoenix on the backend, leveraging its powerful vertical scaling capabilities and fault-tolerant architecture. On the frontend, I specialize in React frameworks, particularly Next.js, and have experience with React Native for mobile development. I've embraced modern AI coding tools like GitHub Copilot and Cursor, integrating them into my development workflow to significantly boost productivity. I love learning new technologies and tools. It's just fun to build!
 
 ## Skills
 
