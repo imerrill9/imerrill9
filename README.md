@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a full stack engineer with a strong preference for Elixir/Phoenix on the backend, leveraging its powerful vertical scaling capabilities and fault-tolerant architecture. On the frontend, I specialize in React frameworks, particularly Next.js, and have experience with React Native for mobile development. I've embraced modern AI coding tools like Cursor or Claude Code, integrating them into my development workflow to significantly boost productivity. I love learning new technologies and tools. It's just fun to build!
+I'm a frontend engineer specializing in React Native with a focus on creating polished, animated experiences using Rive. I love bringing apps to life with fluid, interactive animations that elevate the user experience. On the full stack side, I'm passionate about Elixir/Phoenix for its powerful vertical scaling capabilities and fault-tolerant architecture. I've embraced modern AI coding tools, primarily Claude Code, integrating them into my workflow to boost productivity. My expertise spans TypeScript, React, React Native, and GraphQL, with a focus on building performant, intuitive applications.
 
 ## Skills
 
@@ -11,11 +11,16 @@ I am a full stack engineer with a strong preference for Elixir/Phoenix on the ba
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![Rive](https://img.shields.io/badge/-Rive-black?style=flat-square&logo=rive)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Elixir](https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=phoenix-framework)
+
+## Languages in Repos
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imerrill9&layout=compact&theme=radical)
 
 ## Contact
 
 - [Email](mailto:ian.merrill9@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/imerrill/)
-
