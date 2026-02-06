@@ -16,10 +16,6 @@ I'm a frontend engineer specializing in React Native with a focus on creating po
 ![Elixir](https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=phoenix-framework)
 
-## Languages in Repos
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imerrill9&layout=compact&theme=radical)
-
 ## Contact
 
 - [Email](mailto:ian.merrill9@gmail.com)
