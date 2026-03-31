@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a full stack engineer specializing in React Native with a focus on creating polished, animated experiences using Rive. I love bringing apps to life with fluid, interactive animations that elevate the user experience. On the full stack side, I'm passionate about Elixir/Phoenix for its powerful vertical scaling capabilities and fault-tolerant architecture. I've embraced modern AI coding tools, primarily Claude Code, integrating them into my workflow to boost productivity.
+I'm a full stack engineer specializing in React Native with a focus on creating polished, animated experiences using Rive. I love bringing apps to life with fluid, interactive animations that elevate the user experience. On the backend, I'm passionate about Elixir/Phoenix for its powerful vertical scaling capabilities and fault-tolerant architecture. I've embraced modern AI coding tools, primarily Claude Code, integrating them into my workflow to boost productivity.
 
 ## Skills
 
